@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41dc44f4e810bf8a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-04-22 19.59.12.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -137,8 +147,11 @@
   },
   "active": "b90d917125fcc6dc",
   "lastOpenFiles": [
-    "Todoist.md",
+    "Excalidraw/Drawing 2023-04-22 19.59.12.excalidraw.md",
     "Git Control Plane.md",
+    "Excalidraw",
+    "/Git Control Plane.md",
+    "Todoist.md",
     "Images/Pasted image 20230312225126.png",
     "Images/Pasted image 20230312225411.png",
     "Images/Pasted image 20230312225223.png",
