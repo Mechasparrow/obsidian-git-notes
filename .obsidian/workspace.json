@@ -4,41 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be37634ad717b262",
+        "id": "7f0ed8d72c1185d5",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f4f9d2c20169ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hackathons/Health Data Ethics/CVS Data/MinuteClinic API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bf035c7a7909b39",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Wedding/Officiant/sqinv-Michael-Navazhylau-and-Alanna-Pundsack-000144 (1).pdf"
-              }
-            }
-          },
-          {
-            "id": "74baa61185c27e96",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "23c2762d8754c38b",
+            "id": "91046fca7b8ab2f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,17 +20,7 @@
             }
           },
           {
-            "id": "b9d011711e4701e7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "61bf114e7df9b48b",
+            "id": "096ae7e39cf88d84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc1df2604d2c6075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todoist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Control Plane.md",
+                "file": "Todoist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Control Plane.md",
+                "file": "Todoist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Control Plane.md"
+                "file": "Todoist.md"
               }
             }
           },
@@ -195,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 882.5
+    "width": 882.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,16 +184,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61bf114e7df9b48b",
+  "active": "dc1df2604d2c6075",
   "lastOpenFiles": [
+    "Sutta.md",
+    "Git Control Plane.md",
+    "Meditation/Where to read suttas.md",
+    "Todoist.md",
+    "Meditation",
+    "Excalidraw/Drawing 2023-04-22 19.59.12.excalidraw.md",
+    "Excalidraw",
     "Headless Chrome Selenium.md",
     "Images/Pasted image 20230312225126.png",
-    "Git Control Plane.md",
     "test note.md",
     "Images",
     "Dates/Saint Patricks Day 3-16.md",
     "Dates",
-    "Todoist.md",
     "Artwork/Flower Mood board.canvas",
     "Images/Pasted image 20230312233512.png",
     "Images/Pasted image 20230312225426.png",

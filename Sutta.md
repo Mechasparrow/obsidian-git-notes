@@ -1,0 +1,3 @@
+ But it’s when they encounter disagreeable criticism that you’ll know whether they’re really sweet, even-tempered, and calm. I don’t say that a mendicant is easy to admonish if they make themselves easy to admonish only for the sake of robes, almsfood, lodgings, and medicines and supplies for the sick.
+
+Mendicants, there are these five ways in which others might criticize you. Their speech may be timely or untimely, true or false, gentle or harsh, beneficial or harmful, from a heart of love or from secret hate.
