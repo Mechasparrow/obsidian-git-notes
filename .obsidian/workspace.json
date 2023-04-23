@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "5d6d7e6d06724750",
+    "type": "split",
+    "children": [
+      {
+        "id": "be37634ad717b262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7f4f9d2c20169ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hackathons/Health Data Ethics/CVS Data/MinuteClinic API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bf035c7a7909b39",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Wedding/Officiant/sqinv-Michael-Navazhylau-and-Alanna-Pundsack-000144 (1).pdf"
+              }
+            }
+          },
+          {
+            "id": "74baa61185c27e96",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "23c2762d8754c38b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todoist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9d011711e4701e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "61bf114e7df9b48b",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "staged": false,
+                "file": "Dates/Saint Patricks Day 3-16.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c7a2d76c1564706",
+    "type": "split",
+    "children": [
+      {
+        "id": "94cca6f2d674121a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2019d127333d2e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b14adb7920392138",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c265d0308e8550f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58fc8b7d1e51ed75",
+    "type": "split",
+    "children": [
+      {
+        "id": "64825813b81ba1ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb37e17b9072bc9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93748539fa88542a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f68a44c6f526f185",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57a7b6557b83ddf4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "61bf114e7df9b48b",
+  "lastOpenFiles": [
+    "Dates/Saint Patricks Day 3-16.md",
+    "Dates",
+    "Todoist.md",
+    "Artwork/Flower Mood board.canvas",
+    "Pasted image 20230312233512.png",
+    "Pasted image 20230312225426.png",
+    "Pasted image 20230312225422.png",
+    "Pasted image 20230312225411.png",
+    "Pasted image 20230312225348.png",
+    "Pasted image 20230312225335.png",
+    "Pasted image 20230312225223.png",
+    "Pasted image 20230312225217.png",
+    "Pasted image 20230312225132.png",
+    "Pasted image 20230312225126.png",
+    "Artwork",
+    "Headless Chrome Selenium.md",
+    "Wedding/Officiant/sqinv-Michael-Navazhylau-and-Alanna-Pundsack-000144 (1).pdf",
+    "Wedding/Officiant/sqinv-Michael-Navazhylau-and-Alanna-Pundsack-000144.pdf",
+    "Hackathons/Health Data Ethics/CVS Data/MinuteClinic.md",
+    "Hackathons/Health Data Ethics/CVS Data/MinuteClinic API.md",
+    "Hackathons/Health Data Ethics/PDF/cvs-20211231.pdf",
+    "Hackathons/Health Data Ethics/PDF/CVSHealth_2020AR_FINAL.pdf",
+    "Hackathons/Health Data Ethics/PDF/CVS2021_Annual-Report.pdf"
+  ]
+}
