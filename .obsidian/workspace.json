@@ -63,10 +63,11 @@
             "id": "61bf114e7df9b48b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "Dates/Saint Patricks Day 3-16.md"
+                "file": "test note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -137,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,15 +177,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "test note.md"
+              }
+            }
+          },
+          {
+            "id": "bd6535d939de8a25",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 882.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,6 +213,7 @@
   },
   "active": "61bf114e7df9b48b",
   "lastOpenFiles": [
+    "test note.md",
     "Dates/Saint Patricks Day 3-16.md",
     "Dates",
     "Todoist.md",
