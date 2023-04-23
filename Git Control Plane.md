@@ -15,4 +15,4 @@ action Obsidian Git: Pull
 ```
 
 
-Amazin
+Amazing
