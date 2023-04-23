@@ -63,9 +63,11 @@
             "id": "61bf114e7df9b48b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20230312225126.png"
+                "file": "Git Control Plane.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -136,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230312225126.png",
+                "file": "Git Control Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20230312225126.png",
+                "file": "Git Control Plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20230312225126.png"
+                "file": "Git Control Plane.md"
               }
             }
           },
@@ -209,8 +211,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2019d127333d2e8",
+  "active": "61bf114e7df9b48b",
   "lastOpenFiles": [
+    "Headless Chrome Selenium.md",
+    "Images/Pasted image 20230312225126.png",
+    "Git Control Plane.md",
     "test note.md",
     "Images",
     "Dates/Saint Patricks Day 3-16.md",
@@ -226,9 +231,7 @@
     "Images/Pasted image 20230312225223.png",
     "Images/Pasted image 20230312225217.png",
     "Images/Pasted image 20230312225132.png",
-    "Images/Pasted image 20230312225126.png",
     "Artwork",
-    "Headless Chrome Selenium.md",
     "Wedding/Officiant/sqinv-Michael-Navazhylau-and-Alanna-Pundsack-000144 (1).pdf",
     "Wedding/Officiant/sqinv-Michael-Navazhylau-and-Alanna-Pundsack-000144.pdf",
     "Hackathons/Health Data Ethics/CVS Data/MinuteClinic.md",

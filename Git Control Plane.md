@@ -13,3 +13,6 @@ name Pull Changes
 type command
 action Obsidian Git: Pull
 ```
+
+
+Amazin
