@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "647295a8ce37562a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPA requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todoist.md",
+                "file": "CPA requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todoist.md",
+                "file": "CPA requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todoist.md"
+                "file": "CPA requirements.md"
               }
             }
           },
@@ -184,12 +196,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc1df2604d2c6075",
+  "active": "647295a8ce37562a",
   "lastOpenFiles": [
+    "Todoist.md",
+    "CPA requirements.md",
+    "CPA + CFE requirements",
     "Sutta.md",
     "Git Control Plane.md",
     "Meditation/Where to read suttas.md",
-    "Todoist.md",
     "Meditation",
     "Excalidraw/Drawing 2023-04-22 19.59.12.excalidraw.md",
     "Excalidraw",
@@ -215,7 +229,6 @@
     "Hackathons/Health Data Ethics/CVS Data/MinuteClinic.md",
     "Hackathons/Health Data Ethics/CVS Data/MinuteClinic API.md",
     "Hackathons/Health Data Ethics/PDF/cvs-20211231.pdf",
-    "Hackathons/Health Data Ethics/PDF/CVSHealth_2020AR_FINAL.pdf",
-    "Hackathons/Health Data Ethics/PDF/CVS2021_Annual-Report.pdf"
+    "Hackathons/Health Data Ethics/PDF/CVSHealth_2020AR_FINAL.pdf"
   ]
 }
