@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPA + CFE requirements/CFE Requirements.md",
+                "file": "CPA + CFE requirements/CFE requirements - accept fields of study.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPA + CFE requirements/CFE Requirements.md",
+                "file": "CPA + CFE requirements/CFE requirements - accept fields of study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPA + CFE requirements/CFE Requirements.md",
+                "file": "CPA + CFE requirements/CFE requirements - accept fields of study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPA + CFE requirements/CFE Requirements.md"
+                "file": "CPA + CFE requirements/CFE requirements - accept fields of study.md"
               }
             }
           },
@@ -254,9 +254,9 @@
   },
   "active": "a84776e4e002e68e",
   "lastOpenFiles": [
-    "CPA + CFE requirements/CFE exemptions.md",
-    "CPA + CFE requirements/CFE requirements - accept fields of study.md",
     "CPA + CFE requirements/CFE Requirements.md",
+    "CPA + CFE requirements/CFE requirements - accept fields of study.md",
+    "CPA + CFE requirements/CFE exemptions.md",
     "CPA + CFE requirements/CPA requirements.md",
     "CPA + CFE requirements/Putting your CFE on hold.md",
     "Todoist.md",
