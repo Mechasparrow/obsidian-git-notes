@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a84776e4e002e68e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPA + CFE requirements/CFE Requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -209,14 +221,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "4917187a5f682527",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 882.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,15 +248,17 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bceccc8ca5527d26",
+  "active": "a84776e4e002e68e",
   "lastOpenFiles": [
-    "CPA + CFE requirements/Putting your CFE on hold.md",
-    "CPA + CFE requirements/CFE exemptions.md",
+    "CFE requirements - accept fields of study.md",
     "CPA + CFE requirements/CFE Requirements.md",
     "CPA + CFE requirements/CPA requirements.md",
+    "CPA + CFE requirements/CFE exemptions.md",
+    "CPA + CFE requirements/Putting your CFE on hold.md",
     "Todoist.md",
     "CPA + CFE requirements",
     "Sutta.md",

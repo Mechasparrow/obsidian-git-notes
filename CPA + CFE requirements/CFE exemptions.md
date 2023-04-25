@@ -1,5 +1,9 @@
 As a new Certified Fraud Examiner (CFE) you are exempt from reporting CPE from the day you become certified through your next anniversary month. You can find your anniversary month by visiting [ACFE.com/myCPE](https://www.acfe.com/cfe-credential/continuing-professional-education-cpe-requirements/~/link.aspx?_id=9A14CFACCA7D44FD815D8DFBCE05CA0C&_z=z) or by contacting the ACFE at [MemberServices@ACFE.com](mailto:memberservices@acfe.com?subject=CPE%20Compliance%20Question).   
   
+_Each new CFE will have a different exemption time frame based on their certification date and anniversary date._
+
+As a new Certified Fraud Examiner (CFE) you are exempt from reporting CPE from the day you become certified through your next anniversary month. You can find your anniversary month by visiting [ACFE.com/myCPE](https://www.acfe.com/cfe-credential/continuing-professional-education-cpe-requirements/~/link.aspx?_id=9A14CFACCA7D44FD815D8DFBCE05CA0C&_z=z) or by contacting the ACFE at [MemberServices@ACFE.com](mailto:memberservices@acfe.com?subject=CPE%20Compliance%20Question).   
+  
 _Each new CFE will have a different exemption time frame based on their certification date and anniversary date._  
   
 

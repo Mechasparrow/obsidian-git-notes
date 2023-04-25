@@ -10,5 +10,6 @@
   "text-extractor",
   "obsidian-annotator",
   "todoist-sync-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian"
 ]

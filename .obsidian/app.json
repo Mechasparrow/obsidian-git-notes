@@ -1,3 +1,4 @@
 {
-  "mobilePullAction": "obsidian-git:commit"
+  "mobilePullAction": "obsidian-git:commit",
+  "alwaysUpdateLinks": true
 }
