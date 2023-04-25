@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPA + CFE requirements/CFA Requirement.md",
+                "file": "CPA + CFE requirements/CFE Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPA + CFE requirements/Untitled.md",
+                "file": "CPA + CFE requirements/CFE exemptions.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPA + CFE requirements/Untitled.md",
+                "file": "CPA + CFE requirements/CFE exemptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPA + CFE requirements/Untitled.md",
+                "file": "CPA + CFE requirements/CFE exemptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPA + CFE requirements/Untitled.md"
+                "file": "CPA + CFE requirements/CFE exemptions.md"
               }
             }
           },
@@ -222,9 +222,9 @@
   },
   "active": "20f5acd877bbf474",
   "lastOpenFiles": [
-    "CPA + CFE requirements/CFA Requirement.md",
-    "CPA + CFE requirements/Untitled.md",
+    "CPA + CFE requirements/CFE Requirements.md",
     "CPA + CFE requirements/CPA requirements.md",
+    "CPA + CFE requirements/CFE exemptions.md",
     "Todoist.md",
     "CPA + CFE requirements",
     "Sutta.md",
