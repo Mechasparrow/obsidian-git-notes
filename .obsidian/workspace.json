@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a6084f5fc25d8f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "masters/requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPA + CFE requirements/CPA requirements.md",
+                "file": "masters/requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPA + CFE requirements/CPA requirements.md",
+                "file": "masters/requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPA + CFE requirements/CPA requirements.md"
+                "file": "masters/requirements.md"
               }
             }
           },
@@ -252,12 +264,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a84776e4e002e68e",
+  "active": "a2019d127333d2e8",
   "lastOpenFiles": [
+    "CPA + CFE requirements/CPA requirements.md",
+    "masters/requirements.md",
+    "masters",
     "CPA + CFE requirements/CFE requirements - accept fields of study.md",
     "CPA + CFE requirements/CFE exemptions.md",
     "CPA + CFE requirements/CFE Requirements.md",
-    "CPA + CFE requirements/CPA requirements.md",
     "CPA + CFE requirements/Putting your CFE on hold.md",
     "Todoist.md",
     "CPA + CFE requirements",
@@ -288,7 +302,6 @@
     "Wedding/Officiant/sqinv-Michael-Navazhylau-and-Alanna-Pundsack-000144.pdf",
     "Hackathons/Health Data Ethics/CVS Data/MinuteClinic.md",
     "Hackathons/Health Data Ethics/CVS Data/MinuteClinic API.md",
-    "Hackathons/Health Data Ethics/PDF/cvs-20211231.pdf",
-    "Hackathons/Health Data Ethics/PDF/CVSHealth_2020AR_FINAL.pdf"
+    "Hackathons/Health Data Ethics/PDF/cvs-20211231.pdf"
   ]
 }
