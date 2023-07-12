@@ -114,9 +114,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ac37492b690f9e6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -159,6 +169,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e54191ba9141912b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -264,7 +282,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2019d127333d2e8",
+  "active": "2ac37492b690f9e6",
   "lastOpenFiles": [
     "CPA + CFE requirements/CPA requirements.md",
     "masters/requirements.md",
